@@ -1,6 +1,6 @@
 # Bikesharing
 ## Overview
-After a trip to New York City and experiencing the magic of ridesharing bicycles, citibike, I was inspired to implement a similar system in Des Moines. After speaking with an interested angel investor, I have decided to study how citibike in New York city functions to gain a better understanding of how it may perform in Des Moines. I have used Tableau to create better visualizations of the citibike data to present to the angel investors. 
+After a trip to New York City and experiencing the magic of ridesharing bicycles, citibike, I was inspired to implement a similar system in Des Moines. After speaking with an interested angel investor, I have decided to study how citibike in New York city functions to gain a better understanding of how it may perform in Des Moines. I have used Tableau to create better visualizations of the citibike data to present to the angel investors. You can see the story I created on tableau at [citibike_data](https://public.tableau.com/profile/kathryn.kane#!/vizhome/citibike_data_16181849478150/Analysis).
 ## Results
 ![peakhours](peakhours.png)
 The above visual shows the numbers of rides per hour. We can see the peak hours in the late afternoon/early evening.
